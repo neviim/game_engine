@@ -1,6 +1,5 @@
 
 ```zsh
 
-git status
-
+cargo run
 ```
